@@ -15,7 +15,7 @@
 
 4. 1957
 - Morton Heilig (filmmaker) invented the Sensorama, a large booth-like machine
-- intended to combine multiple technologies to gove on to four people the illusion of being in fully 3D immersive world
+- intended to combine multiple technologies to give one to four people the illusion of being in fully 3D immersive world
 - Complete with smell, stereo sound, vibrations, and atmospheric effects (like 4D, wind in hair)
 
 5. 1960
@@ -39,6 +39,7 @@
 - Term virtual reality first appeared
 - Jaron Lanier founded VPL research
 - Began to develop goggles and gloves
+- The cave
 
 9. mid-1980's
 - At NASA Ames Research Center, the Virtual Interface Environment Workstation (VIEW) combined the head-mounted device and gloves together to create a haptic interaction

@@ -1,4 +1,4 @@
-# Digest 11: 03/20/18
+# Digest 11: 03/19/18
 #### Virtual Reality Research
 
 http://www.businessinsider.com/vr-headsets-comparison-popularity-price-features-details-2017-6
