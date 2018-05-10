@@ -7,13 +7,6 @@ Do you love virtual reality?  Are you prone to motion sickness? Now you can use 
 ![label](pilllabel.png)
 
 
-Common side effects include:
--Dry mouth
--Drowsiness
--Dilation of the pupils
+COMMON SIDE EFFECTS INCLUDE: Dry mouth, Drowsiness, Dilation of the pupils
 
-Rare Side Effects Include:
--Confusion
--Rambling speech
--Hallucinations
--Paranoia
+RARE SIDE EFFECTS INCLUDE: Confusion, Rambling speech, Hallucinations, Paranoia
